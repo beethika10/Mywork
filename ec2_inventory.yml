@@ -1,0 +1,10 @@
+---
+  Plugins: aws_ec2
+  regions:
+    - us-east-1
+  aws_access_key:
+  aws_secret_key:
+
+  filters:
+    vpc_id: 'vpc-0dc29ada4750e7a49'
+  
